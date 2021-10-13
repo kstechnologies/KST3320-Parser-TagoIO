@@ -1,4 +1,4 @@
-# KST3320-Parser-Datacake
+# KST3320-Parser-TagoIO
 KST3320 payload parsing example for [TagoIO](https://tago.io/) implementation. 
 
 
